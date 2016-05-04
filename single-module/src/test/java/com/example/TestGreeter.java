@@ -32,7 +32,7 @@ public class TestGreeter {
   }
 
   @Test
-  public void greetShouldIncludeGreetingPhrase() {
+  public void greetShouldIncludeGreetingPhrase2() {
 
     assertThat(1, is(greaterThan(2)));
   }
